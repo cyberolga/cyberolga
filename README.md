@@ -1,4 +1,4 @@
-<h1>Hi, I'm Olga! <br/><a href="https://www.linkedin.com/in/olga-smolira">Scientist Cybersecurity Professional</a> <a href="https://github.com/cyberolga">Programmer</a> </h1>
+<h1>Hi, I'm Olga! <br/><a href="https://www.linkedin.com/in/olga-smolira">Science Cybersecurity </a> <a href="https://github.com/cyberolga">Programming</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -6,11 +6,7 @@
 
 <h2> Certifications: </h2>
 
-- <a href="https://www.coursera.org/programs/hiring-our-heroes-x81ez/professional-certificates/google-cybersecurity?collectionId=0CLSS"> Google Security Professional </a>
-
-<h2>📺 Popular YouTube Videos</h2>
-
--------
+- <a href="https://coursera.org/share/ac15983195b39fa2982d5445095a7feb"> Fundation of Cybersecurity </a>
 
 <h2> 🤳 Connect with me:</h2>
 
