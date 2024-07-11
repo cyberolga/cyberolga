@@ -1,5 +1,7 @@
 <h1>Hi, I'm Olga! <br/><a href="https://www.linkedin.com/in/olga-smolira">Science Cybersecurity </a> <a href="https://github.com/cyberolga">Programming</a> </h1>
 
+As a fast learner with passion for IT, I am dedicated to cybersecurity. I aim to protect individuals and organizations from cyber threats, focusing on enhancing data security. My goal is to help large organizations booster their defenses against cyber attacks.
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 ------
@@ -7,6 +9,7 @@
 <h2> Certifications: </h2>
 
 - <a href="https://coursera.org/share/ac15983195b39fa2982d5445095a7feb"> Fundation of Cybersecurity </a>
+- <a href="https://coursera.org/share/285a7a6f0a6a5323ac400db025a6c720"> Play It Safe: Manage Security Risks </a>
 
 <h2> 🤳 Connect with me:</h2>
 
