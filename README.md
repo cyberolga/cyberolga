@@ -10,6 +10,7 @@ As a fast learner with passion for IT, I am dedicated to cybersecurity. I aim to
 
 - <a href="https://coursera.org/share/ac15983195b39fa2982d5445095a7feb"> Fundation of Cybersecurity </a>
 - <a href="https://coursera.org/share/285a7a6f0a6a5323ac400db025a6c720"> Play It Safe: Manage Security Risks </a>
+- <a href="https://coursera.org/share/16978c62f62f7b02708031a1a2299ecb"> Connect and Protect: Networks and Network Security </a>
 
 <h2> 🤳 Connect with me:</h2>
 
