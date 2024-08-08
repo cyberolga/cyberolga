@@ -4,7 +4,7 @@ As a fast learner with passion for IT, I am dedicated to cybersecurity. I aim to
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-1) <a href="https://github.com/cyberolga/Conduct-Security-Audit/settings/"> Conduct Security Audit </a>
+1) <a href="https://github.com/cyberolga/Conduct-Security-Audit/"> Conduct Security Audit </a>
 
 <h2> Certifications: </h2>
 
