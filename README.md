@@ -22,6 +22,7 @@ Small web and Android apps that do one job well: budgets, trackers, calculators.
 
 | | |
 |---|---|
+| [![Workshop booking app](https://raw.githubusercontent.com/cyberolga/cyberolga/main/screenshots/booking.jpg)](https://cyberolga.github.io/workshop-booking/) | **[Workshop booking app](https://cyberolga.github.io/workshop-booking/)**<br>Booking system for studios and classes: public booking page with an automatic waitlist and calendar invites, plus an owner dashboard with revenue, weekly calendar, payments, client history, ready-to-send reminders and CSV export.<br>[Live demo](https://cyberolga.github.io/workshop-booking/) · [Code](https://github.com/cyberolga/workshop-booking) |
 | [![Budget app](https://raw.githubusercontent.com/cyberolga/cyberolga/main/screenshots/budget.jpg)](https://cyberolga.github.io/budget-app/) | **[Weekly budget app](https://cyberolga.github.io/budget-app/)**<br>A budget app I built for my mum: type what you bought in plain words ("bread 6.50") and it picks the category and shows what's left for the week. Large type, dark mode at night, works offline, also packaged as an Android app.<br>[Live demo](https://cyberolga.github.io/budget-app/) · [Code](https://github.com/cyberolga/budget-app) |
 
 [All app projects →](https://github.com/search?q=user%3Acyberolga+topic%3Aweb-app&type=repositories)
@@ -32,6 +33,7 @@ Clean, fast websites for small businesses and independent professionals, with si
 
 | | |
 |---|---|
+| [![Okruch bakery website](https://raw.githubusercontent.com/cyberolga/cyberolga/main/screenshots/cafe.jpg)](https://cyberolga.github.io/okruch-bakery/) | **[Okruch · bakery & café](https://cyberolga.github.io/okruch-bakery/)**<br>Showcase site for a fictional sourdough bakery: live "open now" badge, today's oven timeline, menu with vegan and gluten-free filters, table booking with smart validation, Polish/English switch.<br>[Live site](https://cyberolga.github.io/okruch-bakery/) · [Code](https://github.com/cyberolga/okruch-bakery) |
 | [![Shantala website](https://raw.githubusercontent.com/cyberolga/cyberolga/main/screenshots/shantala.jpg)](https://cyberolga.github.io/shantala/) | **[Website for a baby massage instructor](https://cyberolga.github.io/shantala/)**<br>One-page site with offer, testimonials, a blog and a moderated review form: visitors submit through Google Forms, and approved entries appear on the site automatically.<br>[Live site](https://cyberolga.github.io/shantala/) · [Code](https://github.com/cyberolga/shantala) |
 
 [All website projects →](https://github.com/search?q=user%3Acyberolga+topic%3Awebsite&type=repositories)
